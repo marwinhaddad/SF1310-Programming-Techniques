@@ -1,0 +1,4 @@
+Vardagsrum TV, 100, 10, 10, 10
+Kök TV, 50, 12, 15, 3
+Sovrum Tv, 50, 13, 15, 0
+Vardagsrum2 TV, 100, 10, 10, 6

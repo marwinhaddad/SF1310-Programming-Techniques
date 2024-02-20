@@ -1,1 +1,2 @@
 # SF1310-Programming-Techniques
+The course DD1310 at KTH focuses on programming techniques, covering fundamental computer concepts and programming in Python, including data structures, classes, and problem-solving strategies. It involves multiple programming assignments, emphasizing structuring and module specification. The course aims to equip students with skills to design programs efficiently, solve problems using programming, and understand software development at an introductory level. For more detailed information, you can visit the KTH course page.
